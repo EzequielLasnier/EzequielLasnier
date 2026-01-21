@@ -9,15 +9,9 @@
   
 </div>
 
-<br>
-
-## Overview
-
 My work operates at the intersection of **Physical Computing**, **Artificial Intelligence**, and **Pedagogy**. I specialize in translating complex engineering concepts into accessible, tangible narratives. 
 
 Currently I focus on **Phygital Experiences**, **Edge AI**, and **Alt-Ctrl** interfaces to empower the next generation of creators. Currently exploring the boundaries between human physiology and digital systems.
-
----
 
 ## Core Research Components
 
