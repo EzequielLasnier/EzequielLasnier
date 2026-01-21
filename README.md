@@ -1,11 +1,9 @@
-<div align="center">
+<div align="left">
 
-  <h1>Ezequiel Lasnier</h1>
+  <h1><strong>Creative Technologist & Learning Coach</strong><br>
+    HCI Researcher • Phygital Systems Architect</h1>
   
-  <p>
-    <strong>Creative Technologist & Learning Coach</strong><br>
-    HCI Researcher • Phygital Systems Architect
-  </p>
+  <br>
   
 </div>
 
