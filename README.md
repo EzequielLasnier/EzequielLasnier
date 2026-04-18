@@ -13,7 +13,7 @@ Currently I focus on **Phygital Experiences**, **Edge AI**, and **Alt-Ctrl** int
 
 ## Core Research Components
 
-I treat my research lines as modular components of a larger educational architecture.
+I treat my research lines as modular components of a larger R&D architecture.
 
 | Component (Project) | Status | Architecture / Stack | Description |
 | :--- | :---: | :--- | :--- |
